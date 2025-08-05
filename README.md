@@ -54,4 +54,3 @@ I created **Research Link Saver** as a simple Chrome extension to help me store 
 ## License
 This project is licensed under the MIT License.
 
-# ChromeExtension
