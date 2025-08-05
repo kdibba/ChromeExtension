@@ -1,6 +1,5 @@
 {
-  "name": "Scrim-s01ua9r",
-  "description": "https://scrimba.com/learn-javascript-c0v/~04f",
+  "name": "chrome-extension-vite",
   "scripts": {
     "start": "vite",
     "dev": "vite",
